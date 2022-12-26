@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "Mamta Khubchandani"
-  s.version       = "0.2.0"
-  s.license       = "CC0-1.0"
-  s.authors       = ["Jason Long", "GitHub, Inc."]
-  s.email         = ["mamta.khubchandani511@gmail.com"]
-  s.homepage      = "https://github.com/MamtaK5"
-  s.summary       = "Welcome to my Portfolio "
+  s.name          = 
+  s.version       = 
+  s.license       = 
+  s.authors       =
+  s.email         = 
+  s.homepage      = 
+  s.summary       = 
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
